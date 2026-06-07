@@ -1,0 +1,24 @@
+{
+  "id": "shared_v1",
+  "type": "benjamin",
+  "name": "shared_v1",
+  "date": "2026-06-06T00:00:00+00:00",
+  "dataset_id": "external",
+  "size_bytes": 2220112,
+  "n_train": 0,
+  "note": "Pre-trained externally. Metrics shown are 5-fold CV values.",
+  "r2": {
+    "size_nm": 0.5894398488254716,
+    "pdi": 0.025411984031123415,
+    "encaps_pct": 0.14965137801284065,
+    "zeta_mv": -0.23848712226530955
+  },
+  "mae": {
+    "size_nm": 6.4169559157816565,
+    "pdi": 0.03922348901988189,
+    "encaps_pct": 4.968029148864746,
+    "zeta_mv": 1.7859818665961558
+  },
+  "r2_mean": 0.13150402215103155,
+  "mae_mean": 3.30254760506561
+}
