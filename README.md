@@ -1,4 +1,4 @@
-# d4gen — NanoOracle
+# d4gen
 
 LNP physicochemistry predictor built for the D4GEN hackathon. The repo splits the work between the ML experimentation phase and the mvp web app.
 
